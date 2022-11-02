@@ -1,0 +1,99 @@
+.header {
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body {
+    margin: 0%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float: left;
+}
+
+.logotext {
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+
+.loginlabel {
+    font-size: 11px;
+    color: #fff;
+}
+
+.logincontrols {
+    margin-left: 115px;
+}
+
+.login {
+    padding-top: 10px;
+}
+
+.forgotten {
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+
+.subbtn {
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #fff;
+    height: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.subbtn:hover {
+    background: #fff;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-section {
+    width: 50%;
+    float: left;
+}
+
+.main-body {
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+
+.image {
+    width: 501px;
+    height: 350px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.textbox3 {
+    height: 24px;
+    border: 1px solid #d3d6db;
+    font-size: 14px;
+    padding: 5px 8px;
+    width: 284px;
+}
